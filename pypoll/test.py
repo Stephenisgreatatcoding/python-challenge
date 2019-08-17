@@ -1,7 +1,5 @@
 import os
 import csv
-import sys
-sys.stdout = open("./stats.txt", "w")
 
 csvpath = './election_data.csv'
 
